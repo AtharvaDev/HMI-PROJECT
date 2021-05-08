@@ -32,9 +32,11 @@ export const Image = styled.div`
   z-index: 2;
   flex: 1;
   overflow: hidden;
-  img {
+
+  svg {
+    height: 50vh;
+
     width: 100%;
-    height: 80vh;
     object-fit: cover;
   }
 `;

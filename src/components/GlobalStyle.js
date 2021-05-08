@@ -48,6 +48,8 @@ button{
        
     }
     a{
+        color: white;
+        text-decoration: none;
         font-size: 1.1rem;
     }
     span{
