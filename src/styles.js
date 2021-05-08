@@ -14,6 +14,7 @@ export const About = styled(motion.div)`
     text-align: center;
   }
 `;
+
 export const Description = styled.div`
   flex: 1;
   padding-right: 5rem;
